@@ -5,3 +5,14 @@ This meta-repository is used for distributing [releases](https://github.com/avbl
 For AVBlocks demo samples and usage instructions check the following repos:
 
  - [AVBlocks C++ SDK (CLI Samples)](https://github.com/avblocks/avblocks-cpp)
+
+## How to obtain Commercial License
+
+See [License Options](https://avblocks.com/license/) for details.
+
+We offer discounts for:
+
+- Competitive product
+- Startup
+- Educational institution
+- Open source project
