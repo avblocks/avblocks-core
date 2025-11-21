@@ -4,7 +4,10 @@ This meta-repository is used for distributing [releases](https://github.com/avbl
 
 For AVBlocks demo samples and usage instructions check the following repos:
 
- - [AVBlocks C++ SDK (CLI Samples)](https://github.com/avblocks/avblocks-cpp)
+- [AVBlocks C++ SDK Docs](https://wiki.avblocks.com/) - Documentation 
+
+ - [AVBlocks C++ SDK (CLI Samples)](https://github.com/avblocks/avblocks-cpp) - Sample command line applications 
+ - [AVBlocks for Modern C++(CLI Samples)](https://github.com/avblocks/avblocks-plus) - Sample command line applications using the Fluent C++ API wrapper.
 
 ## How to obtain Commercial License
 
